@@ -65,7 +65,7 @@ body {
 	position: absolute;
 	transition: 0.5s padding;
 	text-align: center;
-	width: 200px;
+	width: 320px;
 	left: 15px;
 
 }
@@ -79,8 +79,8 @@ body {
 }
 
 .center {
-	height: 200px;
-	width: 200px;
+	height: 320px;
+	width: 320px;
 	
 }
 @media only screen and (max-width: 640px) {
