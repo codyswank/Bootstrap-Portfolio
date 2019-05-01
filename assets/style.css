@@ -67,6 +67,8 @@ body {
 	text-align: center;
 	width: 320px;
 	left: 15px;
+	overflow: auto;
+
 
 }
 
